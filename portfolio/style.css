@@ -1,0 +1,30 @@
+.header{
+    width: 100%;
+    height:40px;
+    background-color:black ;
+}
+
+.h1{
+    font-size: 40px;
+    font-style: italic;
+    color: lightskyblue;
+    padding-top: -1%;
+}
+.h2{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:lightslategrey;
+    padding-bottom:0%;
+}
+.b1{
+    width: 100%; 
+    height:100px;
+    text-align: center; 
+    padding-top: 20px;
+}
+.b2{
+    color:black; 
+    background-color: royalblue; 
+    border-radius: 03px; 
+    border-color: black;
+}
