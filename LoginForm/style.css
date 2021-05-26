@@ -1,0 +1,11 @@
+.container{
+    border: 1cm;
+    background-color: darkkhaki;
+    text-align: center;
+    width:350px;
+    border-radius: 25px;
+    margin:150px auto;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+
+}
