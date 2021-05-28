@@ -1,0 +1,16 @@
+.container{
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    }
+h1{
+    padding-top: 2ch;
+    color: grey;
+}
+img{
+    border-radius: 25px;
+    border-color: rgb(241, 242, 243);
+    width: 400px;
+    padding-top: 50px auto;
+    margin: 25px;
+}
