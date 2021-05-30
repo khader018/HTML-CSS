@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: #554a4a;
+    margin: 50px auto;
+    border-radius: 50px;
+}
+img{
+    margin: auto;
+    border-radius: 25px;
+    border:black
+
+}
+.container,.h1{
+    color: blanchedalmond;
+}
