@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    border-radius: 25px;
+    background-color: bisque;
+
+
+}
+h1{
+ color: brown;
+}
+.border{
+    border: black;
+}
+iframe{
+    text-align: center;
+    width:350px;
+    height:260px;
+    border-radius: 25px;
+    
+    
+}
