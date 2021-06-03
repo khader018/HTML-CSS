@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+</head>
+<body>
+    <link rel="stylesheet" href="style.css">
+    <div class="calculator" style="width: 300px;">
+        <div class="input">
+            <h1>Calculator</h1>
+            <textarea name="box" id="result" cols="27.5" rows="03"></textarea><br>
+            </div>
+            <div class="padding">          
+            <input  class="c" type="button" value="C" onclick="clr()"/>
+            <input class="p" type="button" value="+/-" onclick="dis('+/-')"/>
+            <input class="backspace" type="button" value="<=" onclick="dis('<=')">
+            <input class="divide" type="button" value="/" onclick="dis('/')"><br>
+            
+            <div class="padding1">           
+            <input class="seven" type="button" value="7" onclick="dis('7')">
+            <input class="eight" type="button" value="8" onclick="dis('8')">
+            <input class="nine" type="button" value="9" onclick="dis('9')">
+            <input class="multiple" type="button" value="*" onclick="dis('*')"><br>
+            </div>
+            <div class="padding2">
+            <input class="four" type="button" value="4" onclick="dis('4')"/>
+            <input class="five" type="button" value="5" onclick="dis('5')"/>
+            <input class="six" type="button" value="6" onclick="dis('6')"/>
+            <input class="minus" type="button" value="-" onclick="dis('-')"/><br>
+            </div>
+            <div class="padding3">
+            <input class="one" type="button" value="1" onclick="dis('1')"/>
+            <input class="two" type="button" value="2" onclick="dis('2')"/>
+            <input class="three" type="button" value="3" onclick="dis('3')"/>
+            <input class="pluse" type="button" value="+" onclick="dis('+')"/><br>
+            </div>
+            <div class="padding4">
+            <input class="Zero" type="button" value="0" onclick="dis('0')"/>
+            <input class="dot" type="button" value="." onclick="dis('.')"/>
+            <input class="equal" type="button" value="=" onclick="solve()"/>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

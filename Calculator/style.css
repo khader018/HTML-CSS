@@ -1,0 +1,177 @@
+.calculator{
+    background-color:rgb(155, 24, 89);
+    border-radius:  20px;
+    padding-top: 4px;
+
+    
+}
+h1{
+    text-align: center;
+    color:#e6c8f1;
+}
+.input{
+    text-align: center;
+}
+.divide{
+    background-color: orange;
+    border: black;
+
+}
+.multiple{
+    background-color: orange;
+    border: black;
+}
+.minus{
+    background-color: orange;
+    border: black;
+}
+.pluse{
+    background-color: orange;
+    border: black;
+}
+.equal{
+    background-color: orange;
+    border: black;
+}
+button{
+    height: 40px;
+    width: 50px;
+}
+.Zero {
+  width: 104px;
+}
+.padding{
+    padding-top: 05px;
+    text-align: center;
+    
+
+}
+.padding1{
+    padding-top: 05px;
+}
+.padding2{
+    padding-top: 05px;
+}
+.padding3{
+    padding-top: 05px;
+}
+.padding4{
+    padding-top: 05px;
+    padding-bottom: 10px;
+}
+.c{
+    width: 50px;
+    height: 40px;
+}
+.p{
+    width: 50px;
+    height: 40px; 
+}
+.backspace{
+    width: 50px;
+    height: 40px;    
+
+}
+.divide{
+    width: 50px;
+    height: 40px;    
+
+}
+.seven{
+
+    width: 50px;
+    height: 40px;    
+
+}
+.eight{
+    width: 50px;
+    height: 40px;    
+
+}
+.nine{
+    width: 50px;
+    height: 40px;    
+
+}
+.multiple{
+    width: 50px;
+    height: 40px;    
+ 
+}
+.four{
+    width: 50px;
+    height: 40px;    
+
+}
+.five{
+    width: 50px;
+    height: 40px;    
+
+}
+.six{
+    width: 50px;
+    height: 40px;    
+
+}
+.minus{
+    width: 50px;
+    height: 40px;    
+
+}
+.one{
+    width: 50px;
+    height: 40px;    
+
+}
+.two{
+    width: 50px;
+    height: 40px;    
+
+}
+.three{
+    width: 50px;
+    height: 40px;    
+
+}
+.pluse{
+    width: 50px;
+    height: 40px;    
+
+}
+.Zero{
+    width: 104px;
+    height: 40px;    
+
+}
+.dot{
+    width: 50px;
+    height: 40px;    
+}
+.equal{
+    width: 50px;
+    height: 40px;    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
